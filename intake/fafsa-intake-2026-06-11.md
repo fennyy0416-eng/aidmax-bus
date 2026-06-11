@@ -1,0 +1,78 @@
+# 选题原料 · 高收入家庭也要算 FAFSA/CSS，不是只看收入 · 2026-06-11
+
+## 事实层
+无。
+
+注：本周未找到 FAFSA / SAI 公式 / CSS Profile / Cal Grant / Federal Student Aid 已生效的新规则变化。预算提案、创作者解读、大学宣传口径不放入事实层。
+
+## 角度层
+1. Michael Chen 大学助学金及税务规划专家：本周讲「高中十年级的税表，决定大学一年级的助学金」。来源：[YouTube](https://www.youtube.com/watch?v=bTMHrrUvHqE)。
+   - 切入口：这个角度对 AidMax 很有用，但还可以更具体到 prior-prior year：10 年级/11 年级家长到底哪一年 tax return 会进入 FAFSA/CSS，哪些动作已经晚了，哪些还来得及。
+
+2. FindOurCollege：本周讲「FAFSA vs CSS Profile」。来源：[YouTube](https://www.youtube.com/watch?v=YhDSY1OpNOk)。
+   - 切入口：大多数解释停在「两个表不同」。AidMax 可以讲「同一个家庭，在 FAFSA 学校和 CSS 学校可能是两张账单」，尤其是 home equity、business value、noncustodial parent、海外资产这些华人家庭更容易踩雷的点。
+
+3. 소피언니의 i돈care：本周连续讲 Yale / 私校 financial aid，包括「年收入 $200K 以上也可能学费 $0」和「国际学生也能拿全额资助」。来源：[YouTube 1](https://www.youtube.com/watch?v=Ob15zfcZfWs)、[YouTube 2](https://www.youtube.com/watch?v=pedBCFT4AB8)。
+   - 切入口：韩国创作者已经在抢「高收入也可能拿 aid」的心智。中文市场可以切得更深：不是所有 $200K 家庭都一样，RSU、C corp、投资房、529、海外资产会让 CSS 结果完全不同。
+
+4. Bright College Planning：本周讲「11/12 年级报税前先看 FAFSA/CSS」「12 年级夏天 FAFSA/CSS 准备」「私校可能比州校便宜」。来源：[YouTube 1](https://www.youtube.com/watch?v=Mzp73RGvOAg)、[YouTube 2](https://www.youtube.com/watch?v=v9Yj9kAEgjw)、[YouTube 3](https://www.youtube.com/watch?v=j5mAgSDy6_A)。
+   - 切入口：他们抓住了时间压力，但 AidMax 可以用数字化比较打穿：同一家庭，把 UC / CSU / USC / Stanford / Harvard 放在一张表里，显示 net price 不是按 sticker price 排序。
+
+5. The Wealth Strategy Circle：本周标题是「The Tax Strategy That Makes College Almost Free」。来源：[YouTube](https://www.youtube.com/watch?v=hE3yJYOxxao)。
+   - 切入口：这个标题有点击力，但「almost free」容易过度承诺。AidMax 应该改成更可信的表达：不是 magic tax trick，而是提前两年把 AGI、资产位置、CSS 学校政策和 appeal 可能性算清楚。
+
+## 受众语言
+1. Reddit 家长/学生对 offer 看不懂，焦虑点是「低 SAI 但学校还是要很多钱」：
+   > "I don’t have 30k+ to afford tuition. What should I do?"  
+   来源：[r/financialaid](https://www.reddit.com/r/financialaid/comments/1u2i5ao/help_a_new_student_interpret_financial_aid_offer/)
+
+2. 同一帖里的追问，直接暴露「aid package 和 loan」混在一起看不懂：
+   > "Will i have to take out loans to cover the 30k left?"  
+   来源：[r/financialaid](https://www.reddit.com/r/financialaid/comments/1u2i5ao/help_a_new_student_interpret_financial_aid_offer/)
+
+3. 资产 appeal 场景，父母失业但银行资产很高：
+   > "My dad lost his job so that is the reason for the appeal."  
+   来源：[r/financialaid](https://www.reddit.com/r/financialaid/comments/1u2i3sa/financial_aid_appeal_and_parents_asset/)
+
+4. 同一帖里最适合做 AidMax 资产选题的一句：
+   > "my parents asset in the bank is about 140k"  
+   来源：[r/financialaid](https://www.reddit.com/r/financialaid/comments/1u2i3sa/financial_aid_appeal_and_parents_asset/)
+
+5. CD 账户误区：家长以为「锁定」就不算可用资产：
+   > "100K of it is locked in a cd account for 16 months."  
+   来源：[r/financialaid](https://www.reddit.com/r/financialaid/comments/1u2i3sa/financial_aid_appeal_and_parents_asset/)
+
+6. 高收入离异家庭的核心痛点：收入在 2024 年高，但现在现金流变了：
+   > "he works on Wall Street and was a high income earner for a long time."  
+   来源：[r/financialaid](https://www.reddit.com/r/financialaid/comments/1tyxw50/aid_appeal_help_huge_change_in_financial/)
+
+7. Parent of Record / contributor 规则带来的真实混乱：
+   > "I have no idea how we would pay for this if her appeal does not yield a significant change"  
+   来源：[r/financialaid](https://www.reddit.com/r/financialaid/comments/1tyxw50/aid_appeal_help_huge_change_in_financial/)
+
+8. Cal Grant + FAFSA verification 的州内痛点：
+   > "CSAC says that I'm not eligible for it."  
+   来源：[r/financialaid](https://www.reddit.com/r/financialaid/comments/1tvr9ij/cal_grant_mix_up/)
+
+## 硬数字
+1. Harvard 2026-2027 官方 cost of attendance：tuition $62,226；billed costs $91,634；total billed/unbilled costs $95,134-$100,134。Harvard 同页写明：家庭年收入低于 $100,000，parent contribution 为 $0；收入 up to $200,000，financial aid 至少覆盖 full cost of tuition；超过 $200,000 仍可能按个案获得 aid。来源：[Harvard College Financial Aid](https://college.harvard.edu/financial-aid/how-aid-works)。
+
+2. Stanford Class of 2028 need-based aid 受助家庭平均数：家庭总收入 $150,001-$200,000，average scholarship/grant $61,825，average net cost $33,059，94% 申请者 qualify for Stanford scholarship aid。来源：[Stanford Financial Aid](https://financialaid.stanford.edu/undergrad/how/index.html)。
+
+3. Stanford 同表显示：家庭收入 $200,001-$250,000，average scholarship/grant $47,060，average net cost $47,266，87% qualify；收入 $250,001-$300,000，average scholarship/grant $33,860，average net cost $60,668，72% qualify。来源：[Stanford Financial Aid](https://financialaid.stanford.edu/undergrad/how/index.html)。
+
+4. FAFSA 资产暴露数字：parent-owned 529 / parent assets 在 SAI 中最高约按 5.64% 计入；$10,000 账户可能让 aid package 减少最多约 $564。来源：[AP: Does a 529 plan affect financial aid?](https://apnews.com/article/b9a766442ffb1980a8e59c493500fba5)。
+
+5. CSS Profile 官方口径：每年连接超过 $14 billion nonfederal aid；CSS Profile 对收入 $100,000 以下家庭免费；部分学校可能要求 custodial 和 noncustodial parent 都提交。来源：[College Board CSS Profile](https://cssprofile.collegeboard.org/)。
+
+6. Cal Grant 官方申请窗口：FAFSA 或 CADAA 需要在 March 2 priority deadline 前提交以最大化机会；California Community College 路径可到 September 2；资格还要看 income and asset ceilings。来源：[California Student Aid Commission Cal Grant](https://www.csac.ca.gov/cal-grant)。
+
+## 建议
+1. 建议受众：高收入但以为没戏的家长。
+   - 一句话钩子方向：年入 $200K 不是 FAFSA/CSS 的终点，Harvard 和 Stanford 的官方数字说明，真正要算的是学校、资产和家庭结构。
+
+2. 建议受众：10-11 年级紧迫家长。
+   - 一句话钩子方向：孩子还没申请大学，但你的 tax return 已经在决定大一账单了。
+
+3. 建议受众：现金/CD/529/投资账户较多的中高收入家庭。
+   - 一句话钩子方向：$140K 放在银行，看起来安全，在 FAFSA/CSS 里可能正在变成每年的大学账单。
