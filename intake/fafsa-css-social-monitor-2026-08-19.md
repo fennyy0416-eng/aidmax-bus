@@ -1,6 +1,6 @@
 # AidMax FAFSA / CSS Profile 短视频监控报告
 
-生成时间：2026-08-18 22:48
+生成时间：2026-08-19 08:01
 
 说明：本报告把 TikTok / Instagram Reels 内容仅作为市场线索和选题信号；涉及 FAFSA、CSS Profile、SAI、Cal Grant、merit aid 等政策变化的说法，均需以官方来源核验后才能对外发布。
 
