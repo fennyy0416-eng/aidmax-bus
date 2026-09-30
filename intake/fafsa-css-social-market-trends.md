@@ -99,3 +99,12 @@
 - Top 线索：Self-employed FAFSA mistake: business owners wait too long to think about salary, retirem… / We make 250k so we won't qualify for college financial aid, right? Not always, especially… / Grandparent 529 and FAFSA: people are saying the new rule means it never matters. CSS Pro…
 - 下周可加密监控：CSS Profile home equity, college aid middle class, FAFSA appeal letter, FAFSA divorced parents, grandparent 529 FAFSA, RSU financial aid
 - 备注：短视频内容只作为市场观察，政策 claim 仍需官方核验。
+
+## 2026-09-30 08:01
+
+> 数据来源核查（2026-09-30）：本次 10 条记录全部来自 sample_videos.csv，raw_source 均为 sample，日期为 2026 年 2 月；未获得本周真实 TikTok / Instagram Reels 新数据。下文排名、互动和选题仅为示例输出，不构成本周市场趋势或已验证视频证据。所有涉及政策、收入和资产处理的说法均为「待官方核验」。本周无可确认的新市场变化。
+
+- 本次有效线索：10 条；类别分布：政策变化线索 5；家长误区 3；高互动选题 4；可转化为 AidMax Plus 的主题 9；需要官方核验的 claim 2；不建议公开跟进的话题 1。
+- Top 线索：Self-employed FAFSA mistake: business owners wait too long to think about salary, retirem… / We make 250k so we won't qualify for college financial aid, right? Not always, especially… / Grandparent 529 and FAFSA: people are saying the new rule means it never matters. CSS Pro…
+- 下周可加密监控：CSS Profile home equity, college aid middle class, FAFSA appeal letter, FAFSA divorced parents, grandparent 529 FAFSA, RSU financial aid
+- 备注：短视频内容只作为市场观察，政策 claim 仍需官方核验。
